@@ -73,7 +73,7 @@ else:
 ```
 # Output : 
 
-![image](https://github.com/Nanditha285/Poisson_distribution/blob/main/WhatsApp%20Image%202026-03-15%20at%206.49.07%20PM.jpeg?raw=true)
+![image](https://github.com/Nanditha285/Poisson_distribution/blob/main/WhatsApp%20Image%202026-03-15%20at%206.36.52%20PM.jpeg?raw=true)
 
 # Results
 
